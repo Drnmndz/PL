@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PL_Partial" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -19,7 +22,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="Console" />
+    <property name="last_opened_file_path" value="E:/PL" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PL" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PL" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -55,7 +67,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
+      <option name="SDK_HOME" value="C:\Program Files (x86)\Python38-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -94,26 +106,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="95" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1581596500833" />
-    <state x="679" y="135" key="#shell" timestamp="1581596120563">
+    <state x="679" y="135" key="#shell" timestamp="1581948582978">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="679" y="135" key="#shell/0.0.1920.1040@0.0.1920.1040" timestamp="1581596120563" />
-    <state width="1203" height="885" key="GridCell.Tab.0.bottom" timestamp="1581607240843">
+    <state x="679" y="135" key="#shell/0.0.1920.1040@0.0.1920.1040" timestamp="1581948582978" />
+    <state x="668" y="287" key="EnvironmentVariablesDialog" timestamp="1581947374429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1203" height="885" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581607240843" />
-    <state width="1203" height="885" key="GridCell.Tab.0.center" timestamp="1581607240843">
+    <state x="668" y="287" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581947374429" />
+    <state x="724" y="277" key="FileChooserDialogImpl" timestamp="1582696278639">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1203" height="885" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581607240843" />
-    <state width="1203" height="885" key="GridCell.Tab.0.left" timestamp="1581607240828">
+    <state x="724" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582696278639" />
+    <state width="573" height="885" key="GridCell.Tab.0.bottom" timestamp="1582698781242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1203" height="885" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581607240828" />
-    <state width="1203" height="885" key="GridCell.Tab.0.right" timestamp="1581607240843">
+    <state width="573" height="885" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582698781242" />
+    <state width="573" height="885" key="GridCell.Tab.0.center" timestamp="1582698781242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1203" height="885" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581607240843" />
+    <state width="573" height="885" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582698781242" />
+    <state width="573" height="885" key="GridCell.Tab.0.left" timestamp="1582698781242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="573" height="885" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582698781242" />
+    <state width="573" height="885" key="GridCell.Tab.0.right" timestamp="1582698781242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="573" height="885" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582698781242" />
     <state width="904" height="336" key="GridCell.Tab.1.bottom" timestamp="1581605837925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -130,10 +150,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="904" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581605837925" />
-    <state x="461" y="155" key="SettingsEditor" timestamp="1581598550932">
+    <state x="461" y="155" key="SettingsEditor" timestamp="1581947692153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581598550932" />
+    <state x="461" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581947692153" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
